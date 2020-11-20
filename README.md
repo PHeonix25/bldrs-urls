@@ -8,14 +8,6 @@ This is a minimal URL shortener that can be entirely hosted on GitHub pages. It
 does not need the maintenance of any servers or databases and can be hosted
 entirely on GitHub for free!
 
-[Yay! We got to the top of HN!](https://news.ycombinator.com/item?id=25110879)
-
-<img src="https://i.imgur.com/ZfD7XGt.png" alt="Top of HN" width="240px">
-
-And on GitHub trending!
-
-<img src="https://i.imgur.com/OkYCSOx.png" alt="GitHub Trending" width="240px">
-
 ## 👨‍🏫 Demo
 
 1. [nlsn.cf/1](https://nlsn.cf/1) should link to this repo.
