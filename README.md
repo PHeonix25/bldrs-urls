@@ -1,6 +1,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![Total Lines](https://img.shields.io/tokei/lines/github/nelsontky/gh-pages-url-shortener?color=green)
-![GitHub stars](https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social)
+![Total Lines](https://img.shields.io/tokei/lines/github/PHeonix25/bldrs-urls?color=green)
+![GitHub stars](https://img.shields.io/github/stars/PHeonix25/bldrs-urls?style=social)
 
 # 🔗 GitHub Pages URL Shortener
 
@@ -10,22 +10,21 @@ entirely on GitHub for free!
 
 ## 👨‍🏫 Demo
 
-1. [nlsn.cf/1](https://nlsn.cf/1) should link to this repo.
+1. [bld.rs/1](https://bld.rs/1) should link to this repo.
 
 1. To add a new short link, add an issue with the title being the link you want
    to shorten (including the `http(s)://`) to
-   [https://github.com/nelsontky/gh-pages-url-shortener-db/issues](https://github.com/nelsontky/gh-pages-url-shortener-db/issues).
+   [https://github.com/PHeonix25/bldrs-urls/issues](https://github.com/PHeonix25/bldrs-urls/issues).
 
-1. The newly created short url can be accessed via `nlsn.cf/{issue_number}`
+1. The newly created short url can be accessed via `bld.rs/{issue_number}`
 
 ## ☕️ Features
 
-1. Unlike many URL shorteners, this one ~~does not need a database~~ uses a
-   "database" in the form of GitHub issues and can be entirely hosted on GitHub
-   pages.
+1. Unlike many URL shorteners, this one uses a "database" in the form of 
+   GitHub issues and can be entirely hosted on GitHub pages.
 
 1. There is no need for the pound symbol - short URLs look clean like this:
-   `nlsn.cf/1` instead of looking like this: `nlsn.cf/#1`.
+   `bld.rs/1` instead of looking like this: `bld.rs/#1`.
 
 ## 💡 How does this work?
 
